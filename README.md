@@ -7,3 +7,5 @@ Download the excel file.
 
 Fair Warning: The blade dimensions obtained may not result in the high Coefficient of Performance. Hence it is recommended to use the date only as a baseline and further optimize the design based on the design requirements.
 
+Python script will soon be up at www.ocde.in
+
